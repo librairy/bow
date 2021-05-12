@@ -1,0 +1,1 @@
+docker build . -t librairy/bow:latest
